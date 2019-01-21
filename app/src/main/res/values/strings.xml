@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Sparing</string>
+    <string name="namaProfile">Ridwan Risandi</string>
+    <string name="Kota">Kota</string>
+    <string name="gender">GENDER</string>
+    <string name="Wanita">Wanita</string>
+    <string name="Pria">Pria</string>
+    <string name="Olahraga">Olahraga</string>
+    <string name="Sepakbola">Sepakbola</string>
+    <string name="Badminton">Badminton</string>
+    <string name="Lari">Lari</string>
+    <string name="Futsal">Futsal</string>
+    <string name="Volley">Voli</string>
+    <string name="Basket">Basket</string>
+    <string name="Tenis_Meja">Tenis Meja</string>
+    <string name="Bola_Tenis">Bola Tenis</string>
+    <array name="ListOlahraga">
+        <item>Lari</item>
+        <item>Futsal</item>
+        <item>Badminton</item>
+
+    </array>
+    <string name="title_activity_make_thread">MakeThread</string>
+
+
+    <string name="title_activity_buat_thread">BuatThread</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Ridwan">Ridwan Risandi</string>
+    <string name="Tanggal">15 September 2018</string>
+    <string name="slash">/</string>
+    <string name="People">(*Pemain tersedia dari yang dibutuhkan)</string>
+    <string name="Tanggal_Olahraga">Tanggal Olahraga</string>
+    <string name="Judul_Undangan">BUAT UNDANGAN</string>
+    <string name="Atur_Waktu">ATUR WAKTU</string>
+    <string name="Jumlah_Pemain">JUMLAH PEMAIN</string>
+    <string name="title_activity_signup">SignupActivity</string>
+
+    <string name="title_activity_temukan_teman">TemukanTeman</string>
+    <string name="action_settings">Pesan</string>
+    <string name="title_activity_ajakteman">ajakteman</string>
+    <string name="title_activity_ajak_teman_lagi">AjakTemanLagi</string>
+    <string name="title_activity_recent_chat">RecentChat</string>
+    <string name="groupNameSample">Badminton - Ridwan</string>
+    <string name="sampleLastChat">Kita mulai main dari jam berapa ?</string>
+    <string name="lblSampleTgl">15:22</string>
+    <string name="title_activity_message_list">activity_message_list</string>
+    <string name="title_activity_message_list_new">MessageListActivityNew</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nama User</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="nav_lari">Lari</string>
+    <string name="nav_bolabasket">Bola Basket</string>
+    <string name="nav_bolavoli">Bola Voli</string>
+    <string name="nav_sepakbola">Sepakbola</string>
+    <string name="nav_futsal">Futsal</string>
+    <string name="nav_tenismeja">Tenis Meja</string>
+    <string name="nav_bolatenis">Bola Tenis</string>
+    <string name="nav_bulutangkis">Bulutangkis</string>
+    <string name="nav_pengaturan">Pengaturan</string>
+    <string name="nav_logout">Keluar Akun</string>
+
+    <string name="sampleJam">13:00 WIB</string>
+    <string name="lblTanggalPalsu">2 Juni 2018</string>
+    <string name="sampleKapasitas">2/11</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="btnSimpanText">Simpan</string>
+    <string name="jml">Pemain yang sudah ada</string>
+    <string name="dbth">Pemain yang dibutuhkan</string>
+
+</resources>

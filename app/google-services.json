@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "1043972406912",
+    "firebase_url": "https://sparing-1f569.firebaseio.com",
+    "project_id": "sparing-1f569",
+    "storage_bucket": "sparing-1f569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043972406912:android:166ee9ce731f3a73",
+        "android_client_info": {
+          "package_name": "ifd.sparing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043972406912-lr3cmdclkvsgv2h3ikpltpgjfe6nikp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ifd.sparing",
+            "certificate_hash": "a02fe80355003f78b440ef8c6caeb8d0f97f5463"
+          }
+        },
+        {
+          "client_id": "1043972406912-6aprk6f9qknlnj5f22p65eh02v466tbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS0aAOvM38rF1JyPSZjFsrsEohIOjl8NE"
+        },
+        {
+          "current_key": "AIzaSyDrpUs-Gxmk2AkOuN-TtIH3kdilVmoArXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043972406912-6aprk6f9qknlnj5f22p65eh02v466tbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

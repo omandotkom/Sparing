@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:enabled="true"
+            android:title="Olahraga">
+        <item
+            android:id="@+id/nav_futsal"
+            android:icon="@drawable/ic_menu_futsal"
+            android:title="@string/nav_futsal" />
+        <item
+            android:id="@+id/nav_sepakbola"
+            android:icon="@drawable/ic_menu_sepakbola"
+            android:title="@string/nav_sepakbola" />
+        <item
+            android:id="@+id/nav_bulutangkis"
+            android:icon="@drawable/ic_menu_bulutangkis"
+            android:title="@string/nav_bulutangkis" />
+        <item
+            android:id="@+id/nav_bolavoli"
+            android:icon="@drawable/ic_menu_bolavoli"
+            android:title="@string/nav_bolavoli" />
+        <item
+            android:id="@+id/nav_bolabasket"
+            android:icon="@drawable/ic_menu_bolabasket"
+            android:title="@string/nav_bolabasket" />
+        <item
+            android:id="@+id/nav_bolatenis"
+            android:icon="@drawable/ic_menu_bolatenis"
+            android:title="@string/nav_bolatenis" />
+        <item
+            android:id="@+id/nav_tenismeja"
+            android:icon="@drawable/ic_menu_tenismeja"
+            android:title="@string/nav_tenismeja" />
+        <item
+            android:id="@+id/nav_lari"
+            android:icon="@drawable/ic_menu_lari"
+            android:title="@string/nav_lari" />
+        </item>
+    </group>
+
+    <item
+        android:enabled="true"
+        android:title=" ">
+        <menu>
+            <item
+                android:id="@+id/nav_pengaturan"
+                android:icon="@drawable/ic_menu_pengaturan"
+                android:title="@string/nav_pengaturan" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="@string/nav_logout" />
+        </menu>
+        
+    </item>
+
+</menu>
